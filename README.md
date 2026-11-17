@@ -1,16 +1,14 @@
-## Hi there 👋
+# Md Jowel Rana
 
-<!--
-**jowelr/jowelr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack WordPress Developer**
 
-Here are some ideas to get you started:
+I build and maintain WordPress websites and WooCommerce stores with PHP and JavaScript. I have over 11 years of experience taking projects from design and development through deployment and ongoing support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **WordPress development** — Custom themes and plugins, responsive builds from Figma, and editable layouts with Gutenberg, Elementor, and Divi.
+- **WooCommerce** — Store customization, checkout improvements, and payment gateway integrations.
+- **Performance and maintenance** — Page speed, accessibility, on-page SEO, site migrations, and ongoing support.
+- **Integrations and automation** — HubSpot, Mailchimp, Zoho, and Zapier. I also use AI-assisted tools for development and troubleshooting.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/md-jowel-rana-608b10135/)
